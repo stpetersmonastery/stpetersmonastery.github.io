@@ -4,7 +4,11 @@ title:  "Welcome to St. Peters Monestary Site!"
 date:   2015-07-08 13:37:52
 categories: jekyll update
 ---
+
+![Rainbow!]({{ site.url }}/assets/rainbow1.jpg)
+
 Nulla vitae elit libero, a pharetra augue. Maecenas faucibus mollis interdum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas faucibus mollis interdum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+
 
 Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas faucibus mollis interdum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Curabitur blandit tempus porttitor.
 
