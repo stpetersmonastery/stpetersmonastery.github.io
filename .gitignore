@@ -9,6 +9,8 @@ capybara-*.html
 /coverage/
 /spec/tmp
 **.orig
+_site
+.jekyll-metadata
 rerun.txt
 pickle-email-*.html
 
