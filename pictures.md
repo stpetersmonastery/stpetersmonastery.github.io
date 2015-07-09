@@ -6,86 +6,86 @@ permalink: /pictures/
 <div class='container'>
   <div class='row'>
     <div class='col span-3-t'>
-      <img src='{{ site.url }}/assets/across_lake_villa.jpg'>
+      <img src='{{ site.url }}/assets/across_lake_villa.png'>
     </div>
     <div class='col span-3-t'>
-      <img src='{{ site.url }}/assets/april_snow.jpg'>
+      <img src='{{ site.url }}/assets/april_snow.png'>
     </div>
     <div class='col span-3-t'>
-      <img src='{{ site.url }}/assets/bishop_benjamin.jpg'>
+      <img src='{{ site.url }}/assets/bishop_benjamin.png'>
     </div>
     <div class='col span-3-t'>
-      <img src='{{ site.url }}/assets/bread_oven.jpg'>
-    </div>
-  </div>
-  <div class='row'>
-    <div class='col span-3-t'>
-      <img src='{{ site.url }}/assets/cabin_view.jpg'>
-    </div>
-    <div class='col span-3-t'>
-      <img src='{{ site.url }}/assets/cross.jpg'>
-    </div>
-    <div class='col span-3-t'>
-      <img src='{{ site.url }}/assets/dacha.jpg'>
-    </div>
-    <div class='col span-3-t'>
-      <img src='{{ site.url }}/assets/entry_spring.jpg'>
+      <img src='{{ site.url }}/assets/bread_oven.png'>
     </div>
   </div>
   <div class='row'>
     <div class='col span-3-t'>
-      <img src='{{ site.url }}/assets/from_enterance.jpg'>
+      <img src='{{ site.url }}/assets/cabin_view.png'>
     </div>
     <div class='col span-3-t'>
-      <img src='{{ site.url }}/assets/monestary_view.jpg'>
+      <img src='{{ site.url }}/assets/cross.png'>
     </div>
     <div class='col span-3-t'>
-      <img src='{{ site.url }}/assets/old_yellowstone_trail.jpg'>
+      <img src='{{ site.url }}/assets/dacha.png'>
     </div>
     <div class='col span-3-t'>
-      <img src='{{ site.url }}/assets/portico_view.jpg'>
-    </div>
-  </div>
-  <div class='row'>
-    <div class='col span-3-t'>
-      <img src='{{ site.url }}/assets/rainbow.jpg'>
-    </div>
-    <div class='col span-3-t'>
-      <img src='{{ site.url }}/assets/sculler.jpg'>
-    </div>
-    <div class='col span-3-t'>
-      <img src='{{ site.url }}/assets/service.jpg'>
-    </div>
-    <div class='col span-3-t'>
-      <img src='{{ site.url }}/assets/shrine.jpg'>
+      <img src='{{ site.url }}/assets/entry_spring.png'>
     </div>
   </div>
   <div class='row'>
     <div class='col span-3-t'>
-      <img src='{{ site.url }}/assets/sunset.jpg'>
+      <img src='{{ site.url }}/assets/from_enterance.png'>
     </div>
     <div class='col span-3-t'>
-      <img src='{{ site.url }}/assets/top_of_property.jpg'>
+      <img src='{{ site.url }}/assets/monestary_view.png'>
     </div>
     <div class='col span-3-t'>
-      <img src='{{ site.url }}/assets/villa_back.jpg'>
+      <img src='{{ site.url }}/assets/old_yellowstone_trail.png'>
     </div>
     <div class='col span-3-t'>
-      <img src='{{ site.url }}/assets/villa_from_lake.jpg'>
+      <img src='{{ site.url }}/assets/portico_view.png'>
     </div>
   </div>
   <div class='row'>
     <div class='col span-3-t'>
-      <img src='{{ site.url }}/assets/winter_creek.jpg'>
+      <img src='{{ site.url }}/assets/rainbow.png'>
     </div>
     <div class='col span-3-t'>
-      <img src='{{ site.url }}/assets/winter_from_villa.jpg'>
+      <img src='{{ site.url }}/assets/sculler.png'>
     </div>
     <div class='col span-3-t'>
-      <img src='{{ site.url }}/assets/winter_rocks.jpg'>
+      <img src='{{ site.url }}/assets/service.png'>
     </div>
     <div class='col span-3-t'>
-      <img src='{{ site.url }}/assets/winter_sunset.jpg'>
+      <img src='{{ site.url }}/assets/shrine.png'>
+    </div>
+  </div>
+  <div class='row'>
+    <div class='col span-3-t'>
+      <img src='{{ site.url }}/assets/sunset.png'>
+    </div>
+    <div class='col span-3-t'>
+      <img src='{{ site.url }}/assets/top_of_property.png'>
+    </div>
+    <div class='col span-3-t'>
+      <img src='{{ site.url }}/assets/villa_back.png'>
+    </div>
+    <div class='col span-3-t'>
+      <img src='{{ site.url }}/assets/villa_from_lake.png'>
+    </div>
+  </div>
+  <div class='row'>
+    <div class='col span-3-t'>
+      <img src='{{ site.url }}/assets/winter_creek.png'>
+    </div>
+    <div class='col span-3-t'>
+      <img src='{{ site.url }}/assets/winter_from_villa.png'>
+    </div>
+    <div class='col span-3-t'>
+      <img src='{{ site.url }}/assets/winter_rocks.png'>
+    </div>
+    <div class='col span-3-t'>
+      <img src='{{ site.url }}/assets/winter_sunset.png'>
     </div>
   </div>
 </div>
