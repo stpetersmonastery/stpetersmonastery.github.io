@@ -5,7 +5,7 @@ date:   2015-07-08 13:37:52
 categories: jekyll update
 ---
 
-![Rainbow!]({{ site.url }}/assets/rainbow1.jpg)
+![Rainbow!]({{ site.url }}/assets/rainbow1.png)
 
 Nulla vitae elit libero, a pharetra augue. Maecenas faucibus mollis interdum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas faucibus mollis interdum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
 
