@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to St. Peters Monestary Site!"
+title:  "Welcome to St. Peter's Monastery Site!"
 date:   2015-07-08 13:37:52
 categories: jekyll update
 ---
