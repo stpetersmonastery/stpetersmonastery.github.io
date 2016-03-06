@@ -12,7 +12,7 @@ permalink: /contact/
       <p>P. O. Box 141 </p>
       <p>Harrison, Montana  59735</p>
       <br>
-      <p><a href="mailto:stpetersmonestary@gmail.com">stpetersmonestary@gmail.com</a></p>
+      <p><a href="mailto:stpetersmonastery@gmail.com">stpetersmonastery@gmail.com</a></p>
     </div>
     <div class='col gutters-d span4'></div>
   </div>
