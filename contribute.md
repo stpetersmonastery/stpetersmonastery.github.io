@@ -9,7 +9,6 @@ permalink: /contribute/
     <div class='col gutters-d span4'>
       <p>St. Peter's Monastery is a 501(c)3 charitable foundation recognized by both the State of Montana and the Federal government.  If you would like to make a contribution to the monastery, you can do so either by clicking the Paypal button, below, or by ​designating St. Peter's Monastery as your charitable institution of choice when purchasing through <a href="https://smile.amazon.com">smile.amazon.com</a>.  Checks are also accepted and should be made out to:</p>
       <br>
-      <p>David Hicks, Secretary</p>
       <p>St. Peter's Monastery Foundation</p>
       <p>P. O. Box 141 </p>
       <p>Harrison, Montana  59735</p>
