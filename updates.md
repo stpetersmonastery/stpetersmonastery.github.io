@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Updates
+title: Updates & Camps
 permalink: /updates/
 ---
 
