@@ -37,4 +37,6 @@ Campers arrive in Bozeman, camp out Sat evening on St. Anthony Church property, 
 - 9 pm—Service (Vespers)
 - 10 pm—Lights out
 
-Thursday is a Feast Day.  We will have Liturgy in the morning.  
+Thursday is a Feast Day.  We will have Liturgy in the morning.
+
+IF INTERESTED IN PARTICIPATING IN THE 2017 CAMP, SEND AN EMAIL TO [stpetersmonastery@gmail.com](mailto:stpetersmonastery@gmail.com) 
