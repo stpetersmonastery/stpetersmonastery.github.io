@@ -1,13 +1,7 @@
 
-post
-"July 2016 Update"
-2016-07-14 15:06
-jekyll update
-
-
 # July 2016 Updates
 
-![Moverhead]({{ site.url }}/assets/Moverhead.png
+![Moverhead]({{ site.url }}/assets/Moverhead.png)
 
 Dear friends of St. Peter's,
 
