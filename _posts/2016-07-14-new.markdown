@@ -1,5 +1,5 @@
 
-# July 2016 Updates
+# July 2016 Update
 
 ![Moverhead]({{ site.url }}/assets/Moverhead.png)
 
