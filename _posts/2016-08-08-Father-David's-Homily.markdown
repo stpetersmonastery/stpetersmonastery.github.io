@@ -1,7 +1,7 @@
 
 # Father David's Homily
 
-![stpetericon]({{site.url}}/assets/stpetericon.jpg)
+![stpetericon]({{ site.url}}/assets/stpetericon.png)
 
 Sermon at St. Anthony Orthodox Church, Bozeman
 (Fr. David Morrison)
