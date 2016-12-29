@@ -1,5 +1,9 @@
-
-# Peter Walking on the Waves
+---
+layout: post
+title:  "Peter Walking on the Waves"
+date:   2016-05-01 11:13
+categories: jekyll update
+---
 
 ![stpetericon]({{site.url}}/assets/stpetericon.png)
 
