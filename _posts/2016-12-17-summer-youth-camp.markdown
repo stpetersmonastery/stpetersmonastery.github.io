@@ -5,8 +5,6 @@ date:   2016-12-17 11:11:56
 categories: jekyll update
 ---
 
-# Summer Youth Camp 2017:
-
 ![Monks at work]({{ site.url }}/assets/monks_at_work.jpg)
 
 Saturday, June 24-Friday, June 30 (New Calendar Ss Peter and Paul Feast is Thursday, June 29)
