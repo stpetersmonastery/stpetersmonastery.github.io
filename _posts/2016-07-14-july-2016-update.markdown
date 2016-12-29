@@ -1,5 +1,9 @@
-
-# July 2016 Update
+---
+layout: post
+title:  "July 2016 Update"
+date:   2016-07-14 11:11:56
+categories: jekyll update
+---
 
 ![Moverhead]({{ site.url }}/assets/Moverhead.png)
 
