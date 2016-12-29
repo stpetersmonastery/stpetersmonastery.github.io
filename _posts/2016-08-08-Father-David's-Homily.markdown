@@ -1,5 +1,9 @@
-
-# Father David's Homily
+---
+layout: post
+title:  "Father David's Homily"
+date:   2016-08-08 11:11:56
+categories: jekyll update
+---
 
 ![stpetericon]({{site.url}}/assets/stpetericon.png)
 
