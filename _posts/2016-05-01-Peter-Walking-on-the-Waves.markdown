@@ -1,10 +1,4 @@
 
-layout: post
-title:  "Peter Walking on the Waves"
-date:   2016-05-01 11:11:56
-categories: jekyll update
-
-
 # Peter Walking on the Waves
 
 ![stpetericon]({{ site.url }}/assets/stpetericon.jpg)
