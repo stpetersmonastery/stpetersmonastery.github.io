@@ -1,7 +1,7 @@
 
 # Peter Walking on the Waves
 
-![stpetericon]({{ site.url}}/assets/stpetericon.jpg)
+![stpetericon]({{ site.url}}/assets/stpetericon.png)
 
 Matthew 14:22-33
 
