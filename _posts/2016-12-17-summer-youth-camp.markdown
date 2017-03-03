@@ -37,4 +37,7 @@ Campers arrive in Bozeman, camp out Sat evening on St. Anthony Church property, 
 
 Thursday is a Feast Day.  We will have Liturgy in the morning.
 
-IF INTERESTED IN PARTICIPATING IN THE 2017 CAMP, SEND AN EMAIL TO [stpetersmonastery@gmail.com](mailto:stpetersmonastery@gmail.com)!
+If interested in participating in the 2017 Camp, please download, complete, and send in this application: [SPM Youth Camp Application]({{site.url}}/assets/summer_youth_camp.pdf).
+
+
+
