@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "Annual Report 2017"
+date:   2017-11-25 12:00:00 -0600
+categories: jekyll update
+---
+
+![Grilled Watermellon]({{ site.url }}/assets/grilled-watermellon.jpg)
+
+### SUMMARY OF ACTIVITIES
+
+-	Foundation board met in Bozeman on January 23, 2017.  At this meeting the board formally accepted the Life Estate Gift made of the 1000-acre Hicks home and ranch outside of Harrison, Montana in the fall of 2016;
+-	Hieromonk Innocent visited churches in Montana in March 2017 to raise funds for the Monastery and announce the spring Youth Camp;
+-	Thirty young people and counselors from Colorado, Washington, Idaho and Montana joined Hieromonk Innocent (St. John), Brother Donald (St. Herman of Alaska) and Father David (St. Anthony’s Mission, Bozeman) from June 24-30, 2017 to assist in construction of the Monastery, pray, worship and recreate;
+-	On June 29, 2017 campers celebrated Divine Liturgy on the Feast of Sts. Peter and Paul (NC) at the site;
+-	We hosted the faithful from all Montana parishes for the annual Fourth of July Picnic;
+-	Roughly thirty adult volunteers from Washington, California, Colorado and Montana participated in the work week led by Hieromonk Innocent and Brother Donald, July 10-14;
+-	Fathers David (Bozeman), Moses (Billings) and Russell (Butte) participated as they were able during both weeks;
+-	Mark Headley, the St. Peter’s architect, completed drawings for the Monastery’s initial building capable of housing up to 24 monastics, two library/conference rooms, and temporary chapel, kitchen and refectory;
+-	We kept the web site current (stpetersmonastery.com) and sent out periodic updates to Friends of St. Peter’s Monastery, now numbering 242.
+
+### GOALS FOR 2017-18
+
+-	The Foundation hopes to continue work on the Monastery by completing the ground floor masonry/stone work on the short end of the large L-shaped building and excavate, pour footings and begin the masonry/stonework on the long end of the building;
+-	To this end, the Foundation plans another Youth Camp, June 24-29, 2018 and Volunteer Week, July 9-13, 2018;
+-	If funds prove sufficient, it may also be possible to install the Monastery septic system;
+-	We will continue in prayer for the growth, both spiritual and physical, of our brother Monastery in Manton and the calling of an Abbot and monastics to St. Peter’s.
+
+### FINANCIAL REPORT (08/01/16 – 07/31/17)
+
+-	Income: $13,447.00
+-	Expenses: $10,592.88
+-	Account Balance on August 24, 2017: $6174.16
+-	Major Capital Outlays: Aggregate; Cement; Ready-Mix Deliveries; Materials for Slip-Form Construction; Portable Generator; Camp Expenses (Food, Insurance, and Portable Toilets); Support for Hieromonk Innocent’s Travel.
+
+Prepared by David V. Hicks
+Secretary, St. Peter’s Monastery Foundation
+September 19, 2017
