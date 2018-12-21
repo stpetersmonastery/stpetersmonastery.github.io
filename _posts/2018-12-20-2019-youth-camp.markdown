@@ -1,0 +1,52 @@
+---
+layout: post
+title:  "Summer Youth Camp 2019 Information & Application"
+date:   2018-12-20 12:33
+categories: jekyll update
+---
+
+![LAKESIDE TENTS]({{ site.url }}/assets/LAKESIDETENTS.png)
+
+The work week begins Sunday afternoon.  Please arrive at the monastery work site in Harrison any time after 3 p.m. and before 6 p.m. dinner.  You are also welcome to come to Bozeman for weekend services at St Anthony’s (arriving Saturday, June 22—Vespers is at 6 p.m.—Sunday Liturgy at 9:30 a.m.).  Please let Fr David know if you plan to arrive early.  
+
+![scafolding workers]({{ site.url }}/assets/scafoldingworkers.png)
+
+## Sunday Schedule:
+
+-	9:30 am—Divine Liturgy at St Anthony, with Fellowship Meal after (optional)
+-	3-6 pm—Arrive at St. Peter’s Monastery site in Harrison (begin set up for sleeping)
+-	6 pm—Meal
+-	7 pm—Welcome/Orientation
+-	9 pm—Vespers, & Circle Time
+-	10:15 pm—lights out
+
+![CATCHING WIND]({{ site.url }}/assets/CATCHINGWIND.png)
+
+### Basic Daily (Tentative) Schedule
+
+- 7 am—Akathist
+- 8 am—Breakfast
+- 8:30 am—Instructions for work teams—get to work
+- 9-1 pm—Monastery work
+-	Afternoons will vary with water time, talks, small groups, hiking
+-	6 pm—Dinner, then group activities (softball, etc.)
+-	9 pm—Vespers
+-	10 pm—Circle Time then Lights out
+
+![VESPERS]({{ site.url }}/assets/VESPERS.png)
+
+### Closing Day Saturday Schedule
+
+-	7:15 am—Morning Prayer & check in
+-	8 am—Clean-up, service prep and final work (group picture)
+-	10 am—Liturgy for the Feast of Ss Peter and Paul
+-	11:30 am—Celebration Meal
+-	Farewell!
+
+![2019 youth camp group shot]({{ site.url }}/assets/2019youthcampgroupshot.png)
+
+IF YOU WANT TO BE IN THE 2019 CAMP PHOTO, DOWNLOAD, COMPLETE AND SEND IN THIS APPLICATION: [get the PDF]({{ site.url }}/assets/2019YOUTHCAMPAPPLICATION.pdf)!
+
+![CALIFORNIA CUT]({{ site.url }}/assets/CALIFORNIACUT.png)
+
+HERE'S MORE INFORMATION: [get the PDF]({{ site.url }}/assets/2019YOUTHCAMPINFORMATION.pdf)!
