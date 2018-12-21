@@ -5,14 +5,14 @@ date:   2018-12-19 12:00:00 -0600
 categories: jekyll update
 ---
 
-![Sunrise]({{ site.url }}/assets/sunrise.jpg)
+![Sunrise]({{ site.url }}/assets/sunrise.png)
 
 ST. PETER’S MONASTERY FOUNDATION
 HARRISON, MONTANA
 
 ANNUAL REPORT FOR 2017-18
 
-###SUMMARY OF ACTIVITIES
+### SUMMARY OF ACTIVITIES
 
 -	April 2-3, 2017: Excavation of footing trenches for “Building B”;
 -	June 7: Pour footings for “Building B”;
@@ -24,7 +24,7 @@ ANNUAL REPORT FOR 2017-18
 -	October 8: “Buildings A and B” backfilled.  Montana Land reliance inspection.
 -	Updates emailed, 2019 Youth Camp dates and schedule set, web site revised.
 
-###GOALS FOR 2018-19
+### GOALS FOR 2018-19
 
 -	The Foundation plans to continue work on “Building B’s” foundation walls and possibly dig and pour footings for cloisters;
 -	To this end, the Foundation plans another Youth Camp, June 23-29, 2019 with Archbishop Benjamin celebrating Divine Liturgy with the Camp on Saturday, June 29, the Feast of Sts. Peter and Paul;
@@ -32,7 +32,7 @@ ANNUAL REPORT FOR 2017-18
 -	Meanwhile, we will discontinue the Volunteer Work Week and use volunteers on an ad hoc basis this coming year;
 -	We will continue in prayer for the growth, both spiritual and physical, of our brother Monastery in Manton and the calling of an Abbot and monastics to St. Peter’s.
 
-###FINANCIAL REPORT (08/01/17) to o7/31/18)
+### FINANCIAL REPORT (08/01/17) to o7/31/18)
 
 -	Income: $17,960.78
 -	Expenses: $14,864.10
