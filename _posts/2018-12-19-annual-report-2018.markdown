@@ -1,0 +1,44 @@
+---
+layout: post
+title:  "Annual Report 2018"
+date:   2018-12-19 12:00:00 -0600
+categories: jekyll update
+---
+
+![Sunrise]({{ site.url }}/assets/sunrise.jpg)
+
+ST. PETER’S MONASTERY FOUNDATION
+HARRISON, MONTANA
+
+ANNUAL REPORT FOR 2017-18
+
+###SUMMARY OF ACTIVITIES
+
+-	April 2-3, 2017: Excavation of footing trenches for “Building B”;
+-	June 7: Pour footings for “Building B”;
+-	June 24-29: Host Youth Camp.  Fr. David, Director, assisted by Hieromonk Innocent and Brother Donald.  23 campers.  10 staff.  Completed stone and masonry work on “Building A” and raised foundation walls on “Building B” four to five feet;
+-	July 3: Host annual July 4 picnic for 60-70 Montana faithful;
+-	July 9-13: Volunteer Work Week.  8-10 volunteers daily.  Raised foundation walls on “Building B” six to eight feet;   
+-	July 13: Received gift of four heavy articulated doors and crosses from Holy Trinity, Butte;
+-	August 23: Sean McFarland stakes cloisters and courtyard;
+-	October 8: “Buildings A and B” backfilled.  Montana Land reliance inspection.
+-	Updates emailed, 2019 Youth Camp dates and schedule set, web site revised.
+
+###GOALS FOR 2018-19
+
+-	The Foundation plans to continue work on “Building B’s” foundation walls and possibly dig and pour footings for cloisters;
+-	To this end, the Foundation plans another Youth Camp, June 23-29, 2019 with Archbishop Benjamin celebrating Divine Liturgy with the Camp on Saturday, June 29, the Feast of Sts. Peter and Paul;
+-	In the absence of monastics, we are shifting our focus from construction to youth outreach while continuing to make work on the monastery a central feature of the Youth Camp.  We are working to engage more parishes and monastics in the Youth Camp with the hope of adding another youth camp in the summer of 2020;
+-	Meanwhile, we will discontinue the Volunteer Work Week and use volunteers on an ad hoc basis this coming year;
+-	We will continue in prayer for the growth, both spiritual and physical, of our brother Monastery in Manton and the calling of an Abbot and monastics to St. Peter’s.
+
+###FINANCIAL REPORT (08/01/17) to o7/31/18)
+
+-	Income: $17,960.78
+-	Expenses: $14,864.10
+-	Account Balance on October 9, 2018: $16,495.98
+-	Major Capital Outlays: Aggregate; Cement; Ready-Mix Deliveries; Re-bar; Materials for Slip-Form Construction; Camp Expenses (Food, Insurance, and Portable Toilets).
+
+Prepared by David V. Hicks
+Secretary, St. Peter’s Monastery Foundation
+October 9, 2018
